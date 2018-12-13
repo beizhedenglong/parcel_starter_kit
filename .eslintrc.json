@@ -19,6 +19,8 @@
       "semi": ["error", "never"],
       "react/prop-types": "off",
       "react/destructuring-assignment": "off",
-      "import/no-extraneous-dependencies": "off"
+      "import/no-extraneous-dependencies": "off",
+      "no-underscore-dangle": "off",
+      "prefer-destructuring": "off"
     }
 }
